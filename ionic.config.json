@@ -1,0 +1,7 @@
+{
+  "name": "YoututoPro",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
